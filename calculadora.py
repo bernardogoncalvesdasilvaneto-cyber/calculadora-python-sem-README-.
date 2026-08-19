@@ -3,8 +3,8 @@ print("Bem-vindo à Calculadora em Python!")
 numero1 = float(input("Digite o primeiro número: "))
 numero2 = float(input("Digite o segundo número: "))
  
-soma = numero1 + numero2
-print("A soma é:", soma)
+somar = numero1 + numero2
+print("A soma é:", somar)
 
 subtracao = numero1 - numero2
 print("A subtração é:", subtracao)
