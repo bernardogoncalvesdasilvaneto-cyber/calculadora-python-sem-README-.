@@ -18,3 +18,5 @@ if numero2 != 0:
 else:
     print("Não é possível dividir por zero!")
 
+#Salve
+
